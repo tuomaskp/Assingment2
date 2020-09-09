@@ -1,0 +1,13 @@
+C:\Users\Tuomas\Desktop\Assingment2\bin\Debug\netcoreapp3.1\Assingment2.exe
+C:\Users\Tuomas\Desktop\Assingment2\bin\Debug\netcoreapp3.1\Assingment2.deps.json
+C:\Users\Tuomas\Desktop\Assingment2\bin\Debug\netcoreapp3.1\Assingment2.runtimeconfig.json
+C:\Users\Tuomas\Desktop\Assingment2\bin\Debug\netcoreapp3.1\Assingment2.runtimeconfig.dev.json
+C:\Users\Tuomas\Desktop\Assingment2\bin\Debug\netcoreapp3.1\Assingment2.dll
+C:\Users\Tuomas\Desktop\Assingment2\bin\Debug\netcoreapp3.1\Assingment2.pdb
+C:\Users\Tuomas\Desktop\Assingment2\obj\Debug\netcoreapp3.1\Assingment2.csprojAssemblyReference.cache
+C:\Users\Tuomas\Desktop\Assingment2\obj\Debug\netcoreapp3.1\Assingment2.AssemblyInfoInputs.cache
+C:\Users\Tuomas\Desktop\Assingment2\obj\Debug\netcoreapp3.1\Assingment2.AssemblyInfo.cs
+C:\Users\Tuomas\Desktop\Assingment2\obj\Debug\netcoreapp3.1\Assingment2.csproj.CoreCompileInputs.cache
+C:\Users\Tuomas\Desktop\Assingment2\obj\Debug\netcoreapp3.1\Assingment2.dll
+C:\Users\Tuomas\Desktop\Assingment2\obj\Debug\netcoreapp3.1\Assingment2.pdb
+C:\Users\Tuomas\Desktop\Assingment2\obj\Debug\netcoreapp3.1\Assingment2.genruntimeconfig.cache
